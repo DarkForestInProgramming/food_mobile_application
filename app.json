@@ -1,7 +1,8 @@
 {
   "expo": {
-    "name": "mobilioji_aplikacija",
-    "slug": "mobilioji_aplikacija",
+    "name": "Mobilioji Maisto Užsakymo Aplikacija DŠ",
+    "slug": "mobilioji-maisto-užsakymo-aplikacija-dš",
+    "description": "Maisto užsakymo aplikacija, sukurta naudojant: React Native, JavaScript, TailWindCss, Sanity",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -14,9 +15,7 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
